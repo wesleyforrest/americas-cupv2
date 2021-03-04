@@ -39,7 +39,7 @@ Second attempt at an America's Cup website
   <h3>What is Match racing?</h3>
   <p>
     Match race sailing is easy to follow. A match race consists of two identical boats racing against each other. With effective boat handling and prudent use of wind and currents, a trailing boat can escape the grasp of the leader and pass. The leader uses blocking techniques to hold the other boat back. This one-on-one duel is a game of strategy and tactics. There is only one winner.
-
+    </p>
     <h4>
       What are the rules?
     </h4>
@@ -64,16 +64,13 @@ Second attempt at an America's Cup website
       RULES: There are two basic right-of-way rules. The boat with the wind coming across its right, or starboard, side has the right of way and the other boat must stay clear. Within two boat lengths of a mark, the inside boat has the right to pass inside and ahead. The races are typically very close. Often, the winner is determined within several boat lengths of the finish line.
     </p>
 </body>
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 <footer>
   Copyright - Me
   _nology pre course website design
 </footer>
-
